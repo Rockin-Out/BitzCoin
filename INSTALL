@@ -1,0 +1,9 @@
+Building BitzCoin
+
+See doc/readme-qt.rst for instructions on building BitzCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitzCoin.
+
+See doc/build-*.txt for instructions on building BitzCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitzCoin.
